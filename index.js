@@ -1,5 +1,5 @@
 module.exports = function () {
-    function({ addUtilities }) {
+    return function({ addUtilities }) {
         const sketchyBorders = {
             '.border-sketchy-sm': {
                 borderRadius: '255px 25px 225px 25px/25px 225px 25px 255px',
