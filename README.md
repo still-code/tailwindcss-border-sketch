@@ -1,5 +1,6 @@
-# tailwindcss border sketch
-this small plugin will add Border Sketch Style to tailwindcss
+## tailwindcss border sketch
+This is my first NPM package EVER; it's a small plugin that adds Border Sketch Style to tailwindcss
+
 
 Example:
 
@@ -7,7 +8,27 @@ Example:
 
 Demo : [ATM Blog](http://atmonshi.sa)
 
-Usage:
+## Installation
+
+NPM:
+`npm i tailwindcss-border-sketch`
+
+Yarn:
+`yarn add tailwindcss-border-sketch`
+
+
+## How to Use
+
+In your Tailwindcss config file add the pligin to the `plugins` array
+```
+plugins: [
+    require('tailwindcss-border-sketch')(),
+]
+``` 
+
+Then if you re-run your build suite, all the classes are available to use.
+
+## Usage:
 
 ```html
 <lable>Small :</lable>
