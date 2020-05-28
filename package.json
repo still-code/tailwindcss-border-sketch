@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-border-sketch",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "add Border Sketch Style to tailwindcss",
   "main": "index.js",
   "scripts": {
