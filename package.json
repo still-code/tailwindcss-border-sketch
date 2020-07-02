@@ -1,5 +1,5 @@
 {
-  "name": "tailwindcss-border-sketch",
+  "name": "@atm-code/tailwindcss-border-sketch",
   "version": "1.0.1",
   "description": "add Border Sketch Style to tailwindcss",
   "main": "index.js",
@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atm-code/tailwindcss-border-sketch"
+    "url": "git@github.com:atm-code/tailwindcss-border-sketch.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/atm-code"
   },
   "keywords": [
     "tailwindcss",
