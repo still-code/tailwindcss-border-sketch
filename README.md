@@ -1,23 +1,28 @@
-## tailwindcss border sketch
-This is my first NPM package EVER; it's a small plugin that adds Border Sketch Style to tailwindcss
+<p align="center"><img src="https://banners.beyondco.de/Border%20Sketch.png?theme=light&packageManager=yarn+add&packageName=tailwindcss-border-sketch&pattern=jigsaw&style=style_1&description=border+sketch+for+tailwindcss&md=1&showWatermark=1&fontSize=100px&images=puzzle&widths=600&heights=650"/></p>
+
+# tailwindcss border sketch
+Simple plugin that adds Border Sketch Style to tailwindcss
 
 
-Example:
+## Example:
 
 ![example]( example.png "Logo Title Text 1")
 
-Demo : [ATM Blog](http://atmonshi.sa)
+## Demo:
+[ATM Blog](http://atmonshi.sa)
 
 ## Installation
 
-NPM:
+#### NPM:
+
 `npm i tailwindcss-border-sketch`
 
-Yarn:
+#### Yarn:
+
 `yarn add tailwindcss-border-sketch`
 
 
-## How to Use
+## Setup
 
 In your Tailwindcss config file add the pligin to the `plugins` array
 ```
