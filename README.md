@@ -15,11 +15,15 @@ Simple plugin that adds Border Sketch Style to tailwindcss
 
 #### NPM:
 
-`npm i tailwindcss-border-sketch`
+```console
+npm i tailwindcss-border-sketch
+```
 
 #### Yarn:
 
-`yarn add tailwindcss-border-sketch`
+```console
+yarn add tailwindcss-border-sketch
+```
 
 
 ## Setup
